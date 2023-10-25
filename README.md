@@ -4,7 +4,7 @@
 
 Bienvenue dans GeoLocator, votre application Android pratique pour des services de géolocalisation précis. Ce README fournit un aperçu de l'application, de ses fonctionnalités, des instructions d'installation d'Android Studio, ainsi que des directives d'installation et d'utilisation de l'application.
 
-![Application showcase](images/gos(2).mp4)
+![Video de l'application](images/gos(2).mp4)
 
 ### Fonctionnalités
 
